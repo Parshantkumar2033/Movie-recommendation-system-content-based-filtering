@@ -1,7 +1,7 @@
-TRAININGFILE_CREDIT = "...../RECOMMENDER_SYSTEM_CONTENT_BASED/input/tmdb_5000_credits.csv"
-TRAININGFILE_MOVIE = "...../RECOMMENDER_SYSTEM_CONTENT_BASED/input/tmdb_5000_movies.csv"
+TRAININGFILE_CREDIT = "path to the credits dataset"
+TRAININGFILE_MOVIE = "path to the movies dataset"
 
-MOVIES_PKL = "...../RECOMMENDER_SYSTEM_CONTENT_BASED/input/Movies.pkl"
-SIMILARITY_PKL = "...../RECOMMENDER_SYSTEM_CONTENT_BASED/input/Similarity.pkl"
+MOVIES_PKL = "path to Movies.pkl"
+SIMILARITY_PKL = "path to Similarity.pkl"
 
-APIREQUEST = "https://api.themoviedb.org/3/movie/{}?api_key=8820ff04207c347014eb6634107f2dd5"
+APIREQUEST = "https://api.themoviedb.org/3/movie/{}?api_key=YOUR_API_KEY"
