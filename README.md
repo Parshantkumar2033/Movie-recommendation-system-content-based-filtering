@@ -17,7 +17,7 @@ The recommendation engine is implemented using Python and the following technolo
 - **NLTK**(Natural Language Tool Kit): For text processing and feature extraction from movie descriptions.
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical operations and handling multi-dimensional arrays.
-- **Scikit-learn**: For implementing content-based filtering using **cosine similarity**.
+- **Scikit-learn**: For implementing content-based filtering and **cosine similarity**.
 
 
 ## Detailed Working
