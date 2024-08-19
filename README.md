@@ -1,7 +1,7 @@
 
 # **Movie-recommendation-system-content-based-filtering**
 
-## **Discription**
+## **Description**
 
 This project is a **Movie Recommendation System** built using **content-based** filtering techniques. It recommends movies based on the similarity of their features (such as *genres*, *keywords*, *cast*, and *crew*) to a user-selected movie. The system is designed to help users discover movies that match their preferences based on a movie they already like.  
 
